@@ -3,3 +3,11 @@ data/ruido_fotos
 data/resized_bw
 data/resized_fotos
 notebooks/.ipynb_checkpoints
+data/enrichment/
+data/enrichment_bw/
+data/enrichment_pics/
+data/resized_enrichment/
+notebooks/.ipynb_checkpoints/background_dataset-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/data_overlook-checkpoint.ipynb
+data/processed/useless/
+src/__pycache__/
